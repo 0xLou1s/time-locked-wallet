@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/0xLou1s/time-locked-wallet-frontend.git
+[submodule "program"]
+	path = program
+	url = https://github.com/0xLou1s/time-locked-wallet-program.git
