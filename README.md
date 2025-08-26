@@ -2,6 +2,12 @@
 
 A Solana-based time-locked wallet implementation with a React frontend and Anchor smart contract backend.
 
+## Demo
+
+- [Live Demo](https://time-locked-wallet-zeta.vercel.app/)
+
+- [Video Demo](https://www.youtube.com/watch?v=EJ9U0f788Dg&ab_channel=lou1s)
+
 ## Project Structure
 
 This project consists of two main components:
